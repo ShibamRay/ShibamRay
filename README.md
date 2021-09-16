@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **😊 **
+- 🔭 I’m currently working on "Nothing"
 
 - 🌱 I’m currently learning **React**
 
