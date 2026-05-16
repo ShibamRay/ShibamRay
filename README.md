@@ -30,7 +30,6 @@
 
 ```typescript
 const shibam = {
-  pronouns: "he/him",
   location: "India 🇮🇳",
   currentlyLearning: ["React", "TypeScript", "System Design"],
   lookingFor: "Open Source Collabs 👯",
